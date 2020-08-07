@@ -22,7 +22,7 @@ except ImportError:
 
 
 # Palette
-base03       = ("#eeeeee", 255)
+base03       = ("#ffffff", 15)
 base02       = ("#dfddd7", 188)
 base01       = ("#d3d1cc", 251)
 base00       = ("#bdbbb6", 145)
