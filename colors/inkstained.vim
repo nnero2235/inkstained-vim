@@ -12,7 +12,7 @@ let g:colors_name = 'inkstained'
 
 set background=light
 
-hi Normal ctermfg=243 ctermbg=255 guifg=#697383 guibg=#f4f4f4
+hi Normal ctermfg=243 ctermbg=255 guifg=#697383 guibg=#eeeeee
 hi Cursor ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#555f6f gui=NONE
 hi CursorIM ctermfg=NONE ctermbg=59 guifg=NONE guibg=#555f6f
 hi CursorLine ctermfg=NONE ctermbg=188 cterm=bold guifg=NONE guibg=#dfddd7 gui=bold
@@ -20,7 +20,7 @@ hi CursorColumn ctermfg=NONE ctermbg=188 cterm=NONE guifg=NONE guibg=#dfddd7 gui
 hi Visual ctermfg=NONE ctermbg=188 cterm=NONE guifg=NONE guibg=#dfddd7 gui=NONE
 hi VisualNOS cterm=underline guifg=fg gui=underline
 hi Folded ctermfg=243 ctermbg=188 cterm=NONE guifg=#697383 guibg=#dfddd7 gui=NONE
-hi FoldColumn ctermfg=243 ctermbg=255 cterm=NONE guifg=#697383 guibg=#f4f4f4 gui=NONE
+hi FoldColumn ctermfg=243 ctermbg=255 cterm=NONE guifg=#697383 guibg=#eeeeee gui=NONE
 hi Title ctermfg=132 ctermbg=NONE cterm=bold guifg=#a05b89 guibg=NONE gui=bold
 hi StatusLine ctermfg=243 ctermbg=251 cterm=NONE guifg=#697383 guibg=#d3d1cc gui=NONE
 hi StatusLineNC ctermfg=247 ctermbg=188 cterm=NONE guifg=#929cad guibg=#dfddd7 gui=NONE
@@ -28,7 +28,7 @@ hi VertSplit ctermfg=188 ctermbg=188 cterm=NONE guifg=#dfddd7 guibg=#dfddd7 gui=
 hi LineNr ctermfg=145 ctermbg=188 cterm=NONE guifg=#bdbbb6 guibg=#dfddd7 gui=NONE
 hi CursorLineNr ctermfg=59 ctermbg=251 cterm=bold guifg=#555f6f guibg=#d3d1cc gui=bold
 hi SpecialKey ctermfg=188 ctermbg=66 cterm=bold guifg=#cbd7dc guibg=#5e99b1 gui=bold
-hi NonText ctermfg=247 ctermbg=255 cterm=NONE guifg=#929cad guibg=#f4f4f4 gui=NONE
+hi NonText ctermfg=247 ctermbg=255 cterm=NONE guifg=#929cad guibg=#eeeeee gui=NONE
 hi MatchParen ctermfg=132 ctermbg=NONE cterm=bold guifg=#aa586e guibg=NONE gui=bold
 hi Comment ctermfg=247 cterm=NONE guifg=#929cad gui=NONE
 hi Constant ctermfg=66 ctermbg=188 cterm=NONE guifg=#608f8e guibg=#cfd9d9 gui=NONE
@@ -47,16 +47,16 @@ hi Special ctermfg=67 ctermbg=NONE cterm=bold guifg=#7593bb guibg=NONE gui=bold
 hi Underlined cterm=underline guifg=fg gui=underline
 hi Ignore guifg=bg
 hi Error ctermfg=132 ctermbg=181 cterm=bold guifg=#aa586e guibg=#edb8c4 gui=bold
-hi Todo ctermfg=243 ctermbg=255 cterm=bold guifg=#697383 guibg=#f4f4f4 gui=bold
-hi IncSearch ctermfg=255 ctermbg=66 cterm=bold guifg=#f4f4f4 guibg=#5e99b1 gui=bold
-hi Search ctermfg=255 ctermbg=30 cterm=NONE guifg=#f4f4f4 guibg=#447487 gui=NONE
+hi Todo ctermfg=243 ctermbg=255 cterm=bold guifg=#697383 guibg=#eeeeee gui=bold
+hi IncSearch ctermfg=255 ctermbg=66 cterm=bold guifg=#eeeeee guibg=#5e99b1 gui=bold
+hi Search ctermfg=255 ctermbg=30 cterm=NONE guifg=#eeeeee guibg=#447487 gui=NONE
 hi Pmenu ctermfg=243 ctermbg=251 cterm=NONE guifg=#697383 guibg=#d3d1cc gui=NONE
 hi PmenuSel ctermfg=59 ctermbg=145 cterm=bold guifg=#555f6f guibg=#bdbbb6 gui=bold
 hi PmenuSbar ctermbg=188 cterm=NONE guibg=#dfddd7 gui=NONE
 hi PmenuThumb ctermbg=247 cterm=NONE guibg=#929cad gui=NONE
-hi TabLine ctermfg=243 ctermbg=255 cterm=NONE guifg=#697383 guibg=#f4f4f4 gui=NONE
-hi TabLineSel ctermfg=255 ctermbg=132 cterm=bold guifg=#f4f4f4 guibg=#a05b89 gui=bold
-hi TabLineFill ctermfg=243 ctermbg=255 cterm=NONE guifg=#697383 guibg=#f4f4f4 gui=NONE
+hi TabLine ctermfg=243 ctermbg=255 cterm=NONE guifg=#697383 guibg=#eeeeee gui=NONE
+hi TabLineSel ctermfg=255 ctermbg=132 cterm=bold guifg=#eeeeee guibg=#a05b89 gui=bold
+hi TabLineFill ctermfg=243 ctermbg=255 cterm=NONE guifg=#697383 guibg=#eeeeee gui=NONE
 hi SpellBad cterm=undercurl gui=undercurl
 hi SpellCap cterm=undercurl gui=undercurl
 hi SpellRare cterm=undercurl gui=undercurl
